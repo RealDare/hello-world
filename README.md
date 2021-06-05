@@ -1,2 +1,6 @@
 # hello-world
-This is my first repository to start understand github.
+
+Hi humans!
+
+RD is here, I'm learning html and css. My dream is to be a big web developer.
+After this, I need eat something.
